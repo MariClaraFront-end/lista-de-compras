@@ -1,0 +1,12 @@
+Comprar
+
+Maçã
+Goiaba
+Acerola
+Banana
+Laranja
+Verduras
+Legumes
+Carnes
+
+Essa é a minha lista de compras.
