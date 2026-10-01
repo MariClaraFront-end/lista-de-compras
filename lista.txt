@@ -1,13 +1,13 @@
 Comprar
 
-Maçã
-Goiaba
-Acerola
-Abacaxi
-Banana
-Laranja
-Uvas
-Verduras
-Carnes
+MAÇÃ
+GOIABA
+ACEROLA
+ABACAXI
+BANANA
+LARANJA
+UVAS
+VERDURAS
+CARNES
 
 Essa é a minha lista de compras.
