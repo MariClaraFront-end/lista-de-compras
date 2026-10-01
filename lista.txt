@@ -6,6 +6,7 @@ Acerola
 Abacaxi
 Banana
 Laranja
+Uvas
 Verduras
 Carnes
 
